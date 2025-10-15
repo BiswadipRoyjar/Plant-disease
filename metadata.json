@@ -1,0 +1,5 @@
+{
+  "name": "AI Crop Disease Detection",
+  "description": "An application that uses AI to analyze images of crop leaves, detect diseases, and provide treatment recommendations.",
+  "requestFramePermissions": []
+}
